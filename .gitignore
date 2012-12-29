@@ -1,5 +1,9 @@
-# Ruby on Rails Tutorial: Demo Application
-
-This is the seond application for
-[*Ruby on Rails Tutorial: Learn Rails by Example* (https://railstutorial.org/)]
-by [Michael Hartl](https://michaelhartls.com).
+/.bundle
+/db/*.sqlite3
+/log/*.log
+/tmp
+doc/
+*.swp
+*~
+.project
+.DS_Store
